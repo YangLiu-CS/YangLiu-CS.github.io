@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /markdown1/
 title: "Mentorship"
 author_profile: true
 redirect_from: 
@@ -7,42 +7,30 @@ redirect_from:
   - /markdown.html
 ---
 
-### 👩‍🏫 Mentorship
+### 👩‍🏫 Teaching
 
-- **Jordan Waters** (University of Cambridge)  
-  *Oct. 2023 – July 2024*  
-  *Heart Sound Segmentation using In-Ear Microphones*  
-  **EMBC'25**
+- **Mobile, Wearable Systems and Machine Learning**, University of Cambridge  
+  *Lecturer* — Michaelmas term 2024/2025, Michaelmas term 2023/2024
 
-- **Jiani Cao** (City University of Hong Kong)  
-  *Feb. 2023 – May 2024*  
-  *Finger Tracking Using Wrist-Worn EMG Sensors*  
-  **IEEE TMC'24**
+- **Computer Networking**, University of Cambridge  
+  *Group Supervisor* — Lent term 2024/2025, Lent term 2023/2024, Lent term 2022/2023
 
-- **Tamisa Ketmalasiri** (University of Cambridge)  
-  *Oct. 2023 – May 2024*  
-  *IMChew: Chewing Analysis using Earphone Inertial Measurement Units*  
-  **ACM BodySys'24**
+- **Computer Programming**, City University of Hong Kong  
+  *Lab Tutor* — Sem B 2019/2020, Sem B 2018/2019  
+  *Teaching Assistant* — Sem A 2017/2018, Sem A 2016/2017
 
-- **Jiani Cao** (City University of Hong Kong)  
-  *April 2022 – May 2024*  
-  *Gaze Tracking on Any Surface with Your Phone*  
-  **ACM SenSys'22, ACM TURC'23, IEEE TMC'24**
+- **Introduction to Computer Studies**, City University of Hong Kong  
+  *Teaching Assistant* — Sem A, 2019/2020
 
-- **Jacob Brown** (University of Cambridge)  
-  *Oct. 2022 – July 2023*  
-  *Yawning Detection using Earphone Inertial Measurement Units*  
-  **ACM SmartWear'23**
+- **Computer Networks**, City University of Hong Kong  
+  *Tutorial Tutor* — Sem A, 2018/2019
 
-- **Jiao Li** (City University of Hong Kong)  
-  *Oct. 2022 – July 2023*  
-  *EarPass: Continuous User Authentication with In-ear PPG*  
-  **ACM EarComp'23** — 🏆 *Best Paper Award*
+- **Cloud Computing**, City University of Hong Kong  
+  *Teaching Assistant* — Sem B, 2017/2018
 
-- **Jiao Li** (City University of Hong Kong)  
-  *Oct. 2021 – July 2023*  
-  *GASLA: Enhancing the Applicability of Sign Language Translation*  
-  **IEEE INFOCOM'22, IEEE TMC'24**
+- **The Art and Science of Data**, City University of Hong Kong  
+  *Teaching Assistant* — Sem B, 2016/2017
+
 
 
 <!-- ## Locations of key files/directories
