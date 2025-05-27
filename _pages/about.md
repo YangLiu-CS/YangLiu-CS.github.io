@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming assistant professor in the Department of Computer Science at Florida State University, with a start date in Fall 2025. I am currently a Senior Research Associate working with <a href="https://www.cl.cam.ac.uk/~cm542/">Prof. Cecilia Mascolo</a> and an Affliated Lecturer in the Department of Computer Science and Technology at the University of Cambridge. Prior to that I was a postdoctoral researcher working with <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> at City University of Hong Kong (from Oct 2020 to Dec 2021). I received the B.E. degree in Software Engineering from Xi'an Jiaotong University, Shaanxi, China in 2016 and the Ph.D. degree in Computer Science advised by <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> from City University of Hong Kong, Hong Kong, China in 2020.
+I am an incoming assistant professor in the Department of Computer Science at Florida State University, with a start date in Fall 2025. I am currently a Senior Research Associate working with <a href="https://www.cl.cam.ac.uk/~cm542/">Prof. Cecilia Mascolo</a> and an Affiliated Lecturer in the Department of Computer Science and Technology at the University of Cambridge. Prior to that I was a postdoctoral researcher working with <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> at City University of Hong Kong (from Oct 2020 to Dec 2021). I received the B.E. degree in Software Engineering from Xi'an Jiaotong University, Shaanxi, China in 2016 and the Ph.D. degree in Computer Science advised by <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> from City University of Hong Kong, Hong Kong, China in 2020.
 
 <!-- A data-driven personal website -->
 <!-- ====== -->
@@ -26,6 +26,8 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed | Impact Factor: 3.4 | CiteScore: 7.3) — learn more at https://www.mdpi.com/si/237279.
+
 - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor.
 
 - Our recent work Deep-Learning Based Segmentation of In-Ear Cardiac Sounds led by my Part II student, Jordan Waters, has been accepted by EMBC 2025! Congrats, Jordan!
@@ -38,7 +40,7 @@ Selected Awards
 - N2Women: Rising Stars in Computer Networking and Communications -- 2024
 - Best Paper Award -- ACM EarComp, 2023
 - Outstanding Doctoral Thesis Award -- ACM SIGBED China, 2021
-<!-- - Best-in-Session Presentation Award -- IEEE INFOCOM, 2018 -->
+- Best-in-Session Presentation Award -- IEEE INFOCOM, 2018
 
 Invited Talks
 ------
@@ -52,7 +54,7 @@ Invited Talks
 
 Services
 ------
-- <b>Organizing Committee:</b> N2Women Chairs, ACM SIGCOMM 2025; Fellowship Chairs, N2Women 2025-- ; Computer Science Ethics Committee, University of Cambridge 2024-- ; Chairs, IEEE SWC 2024; Publicity & Social Media Chairs, ACM UbiComp/ISWC 2024; Publicity Chairs, ACM MobiCom 2022; Web Chairs, IEEE ICPADS 2021;
+- <b>Organizing Committee:</b> N2Women Chairs, ACM SIGCOMM 2025; Fellowship Chairs, N2Women 2025-- ; TPC Chairs, ACM BodySys 2025; Computer Science Ethics Committee, University of Cambridge 2024-- ; Chairs, IEEE SWC 2024; Publicity & Social Media Chairs, ACM UbiComp/ISWC 2024; Publicity Chairs, ACM MobiCom 2022; Web Chairs, IEEE ICPADS 2021;
 - <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM IPSN (2024 (Poster Session)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); Euromicro DSD (2025); EAI Qshine (2020);
 - <b>Technical Program Committee Member (Workshop):</b> ACM HumanSys (2025, 2024); ACM EarComp (2024, 2023, 2022); ACM MobiCom4AgeTech (2024); ACM BodySys (2024); ACM EIFCom (2024); ACM SmartWear (2023); DM-SmartHealth (2025);
 - <b>Invited Journal Reviewer:</b> Nature Communications; ACM CHI; ACM IMWUT journal (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things; IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; Journal of Ambient Intelligence and Humanized Computing; Sensors Journal; Applied Science Journal;
