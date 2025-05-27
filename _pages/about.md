@@ -26,7 +26,7 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
-- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed | Impact Factor: 3.4 | CiteScore: 7.3) — learn more at https://www.mdpi.com/si/237279.
+- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.4; CiteScore: 7.3) — learn more at https://www.mdpi.com/si/237279.
 
 - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor.
 
