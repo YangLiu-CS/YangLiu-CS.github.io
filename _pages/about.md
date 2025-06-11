@@ -26,6 +26,8 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+- Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720.
+
 - Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.4; CiteScore: 7.3) — learn more at https://www.mdpi.com/si/237279.
 
 - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor.
