@@ -12,7 +12,7 @@ redirect_from:
 - **Jordan Waters** (University of Cambridge)  
   *Oct. 2023 – July 2024*  
   *Heart Sound Segmentation using In-Ear Microphones*  
-  **EMBC'25**
+  **IEEE EMBC'25**
 
 - **Jiani Cao** (City University of Hong Kong)  
   *Feb. 2023 – May 2024*  

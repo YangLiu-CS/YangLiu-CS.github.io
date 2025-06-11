@@ -28,7 +28,7 @@ News
 ------
 - Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720.
 
-- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.4; CiteScore: 7.3) — learn more at https://www.mdpi.com/si/237279.
+- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.4; CiteScore: 8.2) — learn more at https://www.mdpi.com/si/237279.
 
 - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor.
 
@@ -60,6 +60,7 @@ Services
 - <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM IPSN (2024 (Poster Session)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); Euromicro DSD (2025); EAI Qshine (2020);
 - <b>Technical Program Committee Member (Workshop):</b> ACM HumanSys (2025, 2024); ACM EarComp (2024, 2023, 2022); ACM MobiCom4AgeTech (2024); ACM BodySys (2024); ACM EIFCom (2024); ACM SmartWear (2023); DM-SmartHealth (2025);
 - <b>Invited Journal Reviewer:</b> Nature Communications; ACM CHI; ACM IMWUT journal (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things; IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; Journal of Ambient Intelligence and Humanized Computing; Sensors Journal; Applied Science Journal;
+- <b>Guest Editor:</b> MDPI Sensors - Special Issue "State of the Art in Wearable Sensors for Health Monitoring";
 - <b>Invited Funding Reviewer:</b> Pro² Network+ Funding;
 - <b>Panel/Mentor:</b> Faculty Mentor, PerCom Phd Forum 2025; Panels, WiSense Workshop 2025;
 
