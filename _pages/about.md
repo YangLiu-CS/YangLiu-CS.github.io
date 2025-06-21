@@ -57,10 +57,10 @@ Invited Talks
 Services
 ------
 - <b>Organizing Committee:</b> Registration Chairs, ACM MobiSys 2026; N2Women Chairs, ACM SIGCOMM 2025; Fellowship Chairs, N2Women 2025-- ; TPC Chairs, ACM BodySys 2025; Computer Science Ethics Committee, University of Cambridge 2024-- ; Chairs, IEEE SWC 2024; Publicity & Social Media Chairs, ACM UbiComp/ISWC 2024; Publicity Chairs, ACM MobiCom 2022; Web Chairs, IEEE ICPADS 2021;
-- <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM IPSN (2024 (Poster Session)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); Euromicro DSD (2025); EAI Qshine (2020);
+- <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2026, 2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM IPSN (2024 (Poster Session)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); Euromicro DSD (2025); EAI Qshine (2020);
 - <b>Technical Program Committee Member (Workshop):</b> ACM HumanSys (2025, 2024); ACM EarComp (2024, 2023, 2022); ACM MobiCom4AgeTech (2024); ACM BodySys (2024); ACM EIFCom (2024); ACM SmartWear (2023); DM-SmartHealth (2025);
 - <b>Invited Journal Reviewer:</b> Nature Communications; ACM CHI; ACM IMWUT journal (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things; IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; Journal of Ambient Intelligence and Humanized Computing; Sensors Journal; Applied Science Journal;
-- <b>Guest Editor:</b> MDPI Sensors - Special Issue "State of the Art in Wearable Sensors for Health Monitoring";
+- <b>Editor:</b> IEEE Pervasive Computing; MDPI Sensors - Special Issue "State of the Art in Wearable Sensors for Health Monitoring";
 - <b>Invited Funding Reviewer:</b> Pro² Network+ Funding;
 - <b>Panel/Mentor:</b> Faculty Mentor, PerCom Phd Forum 2025; Panels, WiSense Workshop 2025;
 
