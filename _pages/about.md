@@ -52,7 +52,7 @@ Selected Awards
 
 Invited Talks
 ------
-- <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, June 2025, Google, Virtual Event.
+- <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, Google, June 2025, Virtual Event.
 - <b>[Seminar]</b> Towards Smarter, Healthier, and Secure Lives Through Intelligent Wearable Sensing, CS, Florida State University, April 2025, FL, US.
 - <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Purdue University, February 2025, IN, US.
 - <b>[Lecture]</b> Toward Smarter and Healthier Lives Through Embedded Wearable AI, EE, Columbia University, February 2025, Virtual Event.
