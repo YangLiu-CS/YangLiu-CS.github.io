@@ -69,7 +69,7 @@ Services
 - <b>Invited Journal Reviewer:</b> Nature Communications; ACM CHI; ACM IMWUT journal (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things; IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; Journal of Ambient Intelligence and Humanized Computing; Sensors Journal; Applied Science Journal;
 - <b>Editor:</b> IEEE Pervasive Computing; MDPI Sensors - Special Issue "State of the Art in Wearable Sensors for Health Monitoring";
 - <b>Invited Funding Reviewer:</b> Pro² Network+ Funding;
-- <b>Panel/Mentor:</b> Faculty Mentor, PerCom Phd Forum 2025; Panels, WiSense Workshop 2025;
+- <b>Panel/Mentor/Session Chair:</b> Faculty Mentor, PerCom Phd Forum 2025; Panels, WiSense Workshop 2025; Session chair MobiUK 2025
 
 <!-- **Markdown generator**
 
