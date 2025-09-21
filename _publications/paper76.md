@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: 'https://yangliu-cs.github.io/YangLiu-CS/slides/2019-MobiSys-ArmTroi-slides.pdf'
 paperurl: 'https://yangliu-cs.github.io/YangLiu-CS/paper/2019-MobiSys-ArmTroi.pdf'
 bibtexurl: 'http://yangliu-cs.github.io/YangLiu-CS/ArmTroi.html'
-citation: '[15] <b>Yang Liu</b>, Zhenjiang Li, Zhidan Liu, Kaishun Wu. &quot;Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors.&quot; <b>ACM MobiSys 2019</b>.'
+citation: '<b>Yang Liu</b>, Zhenjiang Li, Zhidan Liu, Kaishun Wu. &quot;Real-time Arm Skeleton Tracking and Gesture Inference Tolerant to Missing Wearable Sensors.&quot; <b>ACM MobiSys 2019</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

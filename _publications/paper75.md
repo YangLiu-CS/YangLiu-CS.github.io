@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://yangliu-cs.github.io/YangLiu-CS/paper/2019-TOSN-Aware.pdf'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '[11] <b>Yang Liu</b>, Yonghang Jiang, Zhenjiang Li, Jianping Wang. &quot;Rulers on Our Arms: Waving to Measure Object Size through Contactless Sensing.&quot; <b>ACM Transactions on Sensor Networks (TOSN) 2019</b>.'
+citation: '<b>Yang Liu</b>, Yonghang Jiang, Zhenjiang Li, Jianping Wang. &quot;Rulers on Our Arms: Waving to Measure Object Size through Contactless Sensing.&quot; <b>ACM Transactions on Sensor Networks (TOSN) 2019</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

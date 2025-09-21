@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://scholars.cityu.edu.hk/files/194313689/182780309.pdf'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '[3] <u>Jiao Li</u>, Jiakai Xu, <b>Yang Liu</b>, Weitao Xu, Zhenjiang Li. &quot;Enhancing the Applicability of Sign Language Translation.&quot; <b>IEEE Transactions on Mobile Computing (TMC) 2024</b>.'
+citation: '<u>Jiao Li</u>, Jiakai Xu, <b>Yang Liu</b>, Weitao Xu, Zhenjiang Li. &quot;Enhancing the Applicability of Sign Language Translation.&quot; <b>IEEE Transactions on Mobile Computing (TMC) 2024</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

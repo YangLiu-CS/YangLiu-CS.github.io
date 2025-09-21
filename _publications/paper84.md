@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3675094.3680521'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '[6] Qiang Yang, <b>Yang Liu</b>, Jake Stuchbury-Wass, Kayla-Jade Butkow, Dong Ma, Cecilia Mascolo. &quot;BrushBuds: Toothbrushing Tracking Using Earphone IMUs.&quot; <b>ACM EarComp 2024</b>.'
+citation: 'Qiang Yang, <b>Yang Liu</b>, Jake Stuchbury-Wass, Kayla-Jade Butkow, Dong Ma, Cecilia Mascolo. &quot;BrushBuds: Toothbrushing Tracking Using Earphone IMUs.&quot; <b>ACM EarComp 2024</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

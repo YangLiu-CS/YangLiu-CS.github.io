@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: # 'https://ieeexplore.ieee.org/document/10638728'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '[1] Qiang Yang, <b>Yang Liu</b>, Jake Sutchbury-Wass, Mathias Ciliberto, Tobias Roedigger, Kayla-Jade Butkow, Adam Pullin, Emeli Panariti, Dong Ma, Cecilia Mascolo. &quot;HearForce: Force Estimation for Manual Toothbrushing with Earables.&quot; <b>ACM IMWUT 2025</b>.'
+citation: 'Qiang Yang, <b>Yang Liu</b>, Jake Sutchbury-Wass, Mathias Ciliberto, Tobias Roedigger, Kayla-Jade Butkow, Adam Pullin, Emeli Panariti, Dong Ma, Cecilia Mascolo. &quot;HearForce: Force Estimation for Manual Toothbrushing with Earables.&quot; <b>ACM IMWUT 2025</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

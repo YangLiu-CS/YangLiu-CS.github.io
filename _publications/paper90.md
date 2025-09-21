@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1109/TNET.2019.2936939'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-citation: '[10] Kang Yang, Tianzhang Xing, <b>Yang Liu</b>, Zhenjiang Li, Xiaoqing Gong, Xiaojiang Chen, Dingyi Fang. &quot;cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing.&quot; <b>IEEE/ACM Transactions on Networking (TON) 2019</b>.'
+citation: 'Kang Yang, Tianzhang Xing, <b>Yang Liu</b>, Zhenjiang Li, Xiaoqing Gong, Xiaojiang Chen, Dingyi Fang. &quot;cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing.&quot; <b>IEEE/ACM Transactions on Networking (TON) 2019</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
