@@ -26,6 +26,10 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+- Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025!
+
+- Our recent work, “EarMeter: Continuous Respiration Volume Monitoring with Earables,” has been accepted for publication in IMWUT 2025!
+
 - Our recent work, “Measuring Cardiac Stroke Volume Through In-ear Audio Sensing,” has been accepted for publication in Nature Communications!
 
 - Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720.
@@ -34,9 +38,9 @@ News
 
 - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor.
 
-- Our recent work Deep-Learning Based Segmentation of In-Ear Cardiac Sounds led by my Part II student, Jordan Waters, has been accepted by IEEE EMBC 2025! Congrats, Jordan!
+<!-- - Our recent work Deep-Learning Based Segmentation of In-Ear Cardiac Sounds led by my Part II student, Jordan Waters, has been accepted by IEEE EMBC 2025! Congrats, Jordan!
 
-- Our recent work RespEar: Earable-Based Robust Respiratory Rate Monitoring has won the Mark Weiser Best Paper Award at IEEE PerCom 2025!
+- Our recent work RespEar: Earable-Based Robust Respiratory Rate Monitoring has won the Mark Weiser Best Paper Award at IEEE PerCom 2025! -->
 
 Selected Awards
 ------
@@ -66,7 +70,7 @@ Invited Talks
 Services
 ------
 - <b>Organizing Committee:</b> Registration Chairs, ACM MobiSys 2026; N2Women Chairs, ACM SIGCOMM 2025; Fellowship Chairs, N2Women 2025-- ; Web Directors, ACM SIGMOBILE 2025--; TPC Chairs, ACM BodySys 2025; Publicity Chairs, ACM IASA 2025; Computer Science Ethics Committee, University of Cambridge 2024-- ; Chairs, IEEE SWC 2024; Publicity & Social Media Chairs, ACM UbiComp/ISWC 2024; Publicity Chairs, ACM MobiCom 2022; Web Chairs, IEEE ICPADS 2021;
-- <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2026, 2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2025 (Posters), 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM IPSN (2024 (Posters)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2025, 2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); Euromicro DSD (2025); EAI Qshine (2020);
+- <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2026, 2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2025 (Posters), 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM IPSN (2024 (Posters)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2025, 2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); AAMAS 2026; Euromicro DSD (2025); EAI Qshine (2020);
 - <b>Technical Program Committee Member (Workshop):</b> ACM HumanSys (2025, 2024); ACM EarComp (2025, 2024, 2023, 2022); ACM IASA (2025); ACM MobiCom4AgeTech (2024); ACM BodySys (2025, 2024); ACM EIFCom (2024); ACM SmartWear (2023); DM-SmartHealth (2025);
 - <b>Invited Journal Reviewer:</b> Nature Communications; ACM CHI; ACM IMWUT journal (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things; IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; Journal of Ambient Intelligence and Humanized Computing; Sensors Journal; Applied Science Journal;
 - <b>Editor:</b> IEEE Pervasive Computing; MDPI Sensors - Special Issue "State of the Art in Wearable Sensors for Health Monitoring";
