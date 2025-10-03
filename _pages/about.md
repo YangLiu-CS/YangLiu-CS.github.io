@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming assistant professor in the Department of Computer Science at Florida State University, with a start date in Fall 2025. I am currently a Senior Research Associate working with <a href="https://www.cl.cam.ac.uk/~cm542/">Prof. Cecilia Mascolo</a> and an Affiliated Lecturer in the Department of Computer Science and Technology at the University of Cambridge. Prior to that I was a postdoctoral researcher working with <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> at City University of Hong Kong (from Oct 2020 to Dec 2021). I received the B.E. degree in Software Engineering from Xi'an Jiaotong University, Shaanxi, China in 2016 and the Ph.D. degree in Computer Science advised by <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> from City University of Hong Kong, Hong Kong, China in 2020.
+I am an assistant professor in the Department of Computer Science at Florida State University. Previously, I was a Senior Research Associate working with <a href="https://www.cl.cam.ac.uk/~cm542/">Prof. Cecilia Mascolo</a> and an Affiliated Lecturer in the Department of Computer Science and Technology at the University of Cambridge. I received the B.E. degree in Software Engineering from Xi'an Jiaotong University, Shaanxi, China in 2016 and the Ph.D. degree in Computer Science advised by <a href="https://www.cs.cityu.edu.hk/~zhenjili/">Prof. Zhenjiang Li</a> from City University of Hong Kong, Hong Kong, China in 2020.
 
 <!-- A data-driven personal website -->
 <!-- ====== -->
@@ -26,6 +26,8 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+- I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.
+
 - Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025!
 
 - Our recent work, “EarMeter: Continuous Respiration Volume Monitoring with Earables,” has been accepted for publication in IMWUT 2025!
@@ -36,7 +38,7 @@ News
 
 - Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.5; CiteScore: 8.2) — learn more at https://www.mdpi.com/si/237279.
 
-- I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor.
+<!-- - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor. -->
 
 <!-- - Our recent work Deep-Learning Based Segmentation of In-Ear Cardiac Sounds led by my Part II student, Jordan Waters, has been accepted by IEEE EMBC 2025! Congrats, Jordan!
 
