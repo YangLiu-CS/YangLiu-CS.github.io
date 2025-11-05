@@ -74,7 +74,7 @@ Invited Talks
 Services
 ------
 <b>Organizing Committee</b>
-- 2026: Registration Chairs, ACM MobiSys
+- 2026: Registration Chairs, ACM MobiSys; CS Student Seminar Committee, FSU
 - 2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge
 - 2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge
 - 2022: Publicity Chairs, ACM MobiCom
@@ -108,6 +108,7 @@ Services
 - IEEE Sensors Journal
 - MDPI Sensors Journal
 - MDPI Applied Science Journal
+- MDPI Diagnostics
 - Journal of Ambient Intelligence and Humanized Computing
 - Pervasive and Mobile Computing
 - Smart Health
