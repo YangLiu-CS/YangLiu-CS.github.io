@@ -11,9 +11,9 @@ I am an assistant professor in the Department of Computer Science at Florida Sta
 
 <!-- A data-driven personal website -->
 <!-- ====== -->
-My research lies at the intersection of mobile systems, mobile computing, and AI, focusing on developing intelligent mobile and wearable technologies for human-centered sensing and computing. It creates novel systems that expand how we understand human behavior, monitor wellness, facilitate interaction between people and their environments, and address potential privacy risks. By capturing insights into individual behavior, health, and interaction patterns, my research advances cutting-edge areas such as mobile health, HCI, IoT, and cybersecurity. <b>My goal is to design and develop mobile computing technologies that intelligently respond to real-world needs and meaningfully improve quality of life.</b>
+My research lies at the intersection of wearable sensing, mobile computing, and artificial intelligence. I develop intelligent mobile and wearable technologies that enable human-centered sensing and computing. My work creates novel systems that deepen our understanding of human behavior, monitor wellness, enhance interactions between people and their environments, and address potential privacy risks. By uncovering insights into individual behavior, health, and interaction patterns, my research advances cutting-edge areas such as mobile health, human-computer interaction, the Internet of Things, and cybersecurity. <b>My goal is to design and develop mobile computing technologies that intelligently respond to real-world needs and meaningfully improve quality of life.</b>
 
-I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communications</b> (10 global awardees). My work has received the <b>ACM SIGBED China Outstanding Doctoral Thesis Award</b> in 2021 (3 national awardees in China), as well as <b>Best Paper Awards</b> at ACM EarComp 2023 and IEEE PerCom 2025 (1/152). <span style="color:red;"><b>I am looking for multiple self-motivated students for Ph.D. or research intern roles starting in Fall 2025 and Spring/Fall 2026. Please email me (yl25r@fsu.edu) with your CV and transcripts.</b></span>
+I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communications</b> (10 global awardees). My work has received the <b>ACM SIGBED China Outstanding Doctoral Thesis Award</b> in 2021 (3 national awardees in China), as well as <b>Best Paper Awards</b> at ACM EarComp 2023 and IEEE PerCom 2025 (1/152). <span style="color:red;"><b>I am looking for multiple self-motivated students for Ph.D. or research intern roles starting in Spring/Fall 2026. Please email me (yl25r@fsu.edu) with your CV and transcripts.</b></span>
 
 <!-- Getting started
 ======
@@ -60,16 +60,69 @@ Selected Awards
 
 Invited Talks
 ------
+- <b>[Lecture]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, School of Computing, University of Georgia, November 2025, Virtual Event.
+- <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, ECE, Northwestern University, October 2025, IL, US.
 - <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, Google, June 2025, Virtual Event.
 - <b>[Seminar]</b> Towards Smarter, Healthier, and Secure Lives Through Intelligent Wearable Sensing, CS, Florida State University, April 2025, FL, US.
 - <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Purdue University, February 2025, IN, US.
 - <b>[Lecture]</b> Toward Smarter and Healthier Lives Through Embedded Wearable AI, EE, Columbia University, February 2025, Virtual Event.
-- <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Northwestern University, February 2025, IL, US.
+<!-- - <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Northwestern University, February 2025, IL, US. -->
 - <b>[Seminar]</b> Intelligent Wearable Sensing for Understanding Human Behavior and Monitoring Wellness, CS, University of Southampton, January 2025, Southampton, UK.
 - <b>[Seminar]</b> Toward More Interactive, Healthier, and More Secure Lives Through Intelligent Sensing, CS, University College London, January 2025, London, UK.
 - <b>[Lecture]</b> Less is More: Innovative Wearable Sensing for Understanding Human Behavior and Monitoring Wellbeing, CS, North Carolina State University, October 2024, Virtual Event.
 
 Services
+------
+<b>Organizing Committee</b>
+- 2026: Registration Chairs, ACM MobiSys
+- 2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge
+- 2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge
+- 2022: Publicity Chairs, ACM MobiCom
+- 2021: Web Chairs, IEEE ICPADS
+
+<b>Technical Program Committee Member (Conference)</b>
+- 2026: ACM SenSys; AAMAS
+- 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
+- 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
+- 2023: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); IEEE ICDCS
+- 2022: ACM SenSys (Shadow Program); IEEE ICDCS (PhD Symposium); IEEE ICPADS
+- 2020: EAI Qshine
+
+<b>Technical Program Committee Member (Workshop)</b>
+- 2025: ACM HumanSys; ACM EarComp; ACM IASA; ACM BodySys; DM-SmartHealth
+- 2024: ACM HumanSys; ACM EarComp; ACM MobiCom4AgeTech; ACM BodySys; ACM EIFCom
+- 2023: ACM EarComp; ACM SmartWear
+- 2022: ACM EarComp
+
+<b>Invited Journal Reviewer</b>
+Nature Communications
+ACM CHI
+ACM IMWUT (UbiComp)
+ACM Transactions on Sensor Networks
+ACM Transactions on Internet of Things
+IEEE Transactions on Mobile Computing
+IEEE Internet of Things Journal
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Network Science and Engineering
+IEEE Pervasive Computing
+IEEE Sensors Journal
+MDPI Sensors Journal
+MDPI Applied Science Journal
+Journal of Ambient Intelligence and Humanized Computing
+Pervasive and Mobile Computing
+Smart Health
+
+<b>Editor</b>
+IEEE Pervasive Computing;
+MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
+
+<b>Invited Funding Reviewer</b>
+Pro² Network+ Funding
+
+<b>Panel / Mentor / Session Chair</b>
+- 2025: Faculty Mentor, PerCom PhD Forum; Panels, WiSense Workshop; Session Chair, MobiUK
+
+<!-- Services
 ------
 - <b>Organizing Committee:</b> Registration Chairs, ACM MobiSys 2026; N2Women Chairs, ACM SIGCOMM 2025; Fellowship Chairs, N2Women 2025-- ; Web Directors, ACM SIGMOBILE 2025--; TPC Chairs, ACM BodySys 2025; Publicity Chairs, ACM IASA 2025; Computer Science Ethics Committee, University of Cambridge 2024-- ; Chairs, IEEE SWC 2024; Publicity & Social Media Chairs, ACM UbiComp/ISWC 2024; Publicity Chairs, ACM MobiCom 2022; Web Chairs, IEEE ICPADS 2021;
 - <b>Technical Program Committee Member (Conference):</b> ACM SenSys (2026, 2025, 2022 (Shadow Program)); ACM MobiSys (2025, 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM MobiCom (2025 (Posters), 2024 (Artifact Evaluation), 2023 (Artifact Evaluation)); ACM BuildSys (2025 PhD Forum); ACM IPSN (2024 (Posters)); ACM ISWC (2025, 2024); IEEE ICDCS (2024, 2023, 2022 (Ph.D. Symposium)); IEEE ICPADS (2025, 2024, 2022); IEEE TrustCom (2024); IEEE UIC (2024); AAMAS (2026); Euromicro DSD (2025); EAI Qshine (2020);
@@ -77,7 +130,7 @@ Services
 - <b>Invited Journal Reviewer:</b> Nature Communications; ACM CHI; ACM IMWUT journal (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things; IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; Journal of Ambient Intelligence and Humanized Computing; Sensors Journal; Applied Science Journal;
 - <b>Editor:</b> IEEE Pervasive Computing; MDPI Sensors - Special Issue "State of the Art in Wearable Sensors for Health Monitoring";
 - <b>Invited Funding Reviewer:</b> Pro² Network+ Funding;
-- <b>Panel/Mentor/Session Chair:</b> Faculty Mentor, PerCom Phd Forum 2025; Panels, WiSense Workshop 2025; Session chair MobiUK 2025
+- <b>Panel/Mentor/Session Chair:</b> Faculty Mentor, PerCom Phd Forum 2025; Panels, WiSense Workshop 2025; Session chair MobiUK 2025 -->
 
 <!-- **Markdown generator**
 

@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://mobile-systems.cl.cam.ac.uk/papers/embc25-jordan.pdf'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
 citation: '<u>Jordan Waters</u>, Jake Stuchbury-Wass, <b>Yang Liu</b>, Kayla-Jade Butkow and Cecilia Mascolo. &quot;Deep-Learning Based Segmentation of In-Ear Cardiac Sounds.&quot; <b>IEEE EMBC 2025</b>.'
 ---
