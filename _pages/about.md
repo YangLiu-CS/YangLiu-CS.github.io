@@ -95,29 +95,29 @@ Services
 - 2022: ACM EarComp
 
 <b>Invited Journal Reviewer</b>
-Nature Communications
-ACM CHI
-ACM IMWUT (UbiComp)
-ACM Transactions on Sensor Networks
-ACM Transactions on Internet of Things
-IEEE Transactions on Mobile Computing
-IEEE Internet of Things Journal
-IEEE Transactions on Neural Networks and Learning Systems
-IEEE Transactions on Network Science and Engineering
-IEEE Pervasive Computing
-IEEE Sensors Journal
-MDPI Sensors Journal
-MDPI Applied Science Journal
-Journal of Ambient Intelligence and Humanized Computing
-Pervasive and Mobile Computing
-Smart Health
+- Nature Communications
+- ACM CHI
+- ACM IMWUT (UbiComp)
+- ACM Transactions on Sensor Networks
+- ACM Transactions on Internet of Things
+- IEEE Transactions on Mobile Computing
+- IEEE Internet of Things Journal
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Network Science and Engineering
+- IEEE Pervasive Computing
+- IEEE Sensors Journal
+- MDPI Sensors Journal
+- MDPI Applied Science Journal
+- Journal of Ambient Intelligence and Humanized Computing
+- Pervasive and Mobile Computing
+- Smart Health
 
 <b>Editor</b>
-IEEE Pervasive Computing;
-MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
+- IEEE Pervasive Computing;
+- MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
 
 <b>Invited Funding Reviewer</b>
-Pro² Network+ Funding
+- Pro² Network+ Funding
 
 <b>Panel / Mentor / Session Chair</b>
 - 2025: Faculty Mentor, PerCom PhD Forum; Panels, WiSense Workshop; Session Chair, MobiUK
