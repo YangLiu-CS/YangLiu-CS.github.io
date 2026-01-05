@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'https://ieeexplore.ieee.org/document/10638728'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3770655'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
 citation: '<b>Yang Liu</b>, Qiang Yang, Kayla-Jade Butkow, Jake Sutchbury-Wass, Dong Ma, Cecilia Mascolo. &quot;EarMeter: Continuous Respiration Volume Monitoring with Earables.&quot; <b>ACM IMWUT 2025</b>.'
 ---

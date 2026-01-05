@@ -27,7 +27,7 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 News
 ------
 
-- Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026!
+- Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February.
 
 - I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.
 
