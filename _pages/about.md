@@ -26,6 +26,9 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+
+- Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026!
+
 - I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.
 
 - Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025!
@@ -74,7 +77,7 @@ Invited Talks
 Services
 ------
 <b>Organizing Committee</b>
-- 2026: Registration Chairs, ACM MobiSys; CS Student Seminar Committee, FSU
+- 2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; CS Student Seminar Committee, FSU
 - 2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge
 - 2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge
 - 2022: Publicity Chairs, ACM MobiCom
@@ -112,6 +115,8 @@ Services
 - Journal of Ambient Intelligence and Humanized Computing
 - Pervasive and Mobile Computing
 - Smart Health
+- International Journal of Environmental Research and Public Health
+- JMIR Cardio
 
 <b>Editor</b>
 - IEEE Pervasive Computing;
