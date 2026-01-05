@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-paperurl: # 'https://arxiv.org/abs/2506.05720'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3737901.3768367'
 bibtexurl: # 'https://arxiv.org/abs/2506.05720'
 citation: 'Jiao Li, <b>Yang Liu</b>, Wenye Liu, Xuanyu Liu, Jin Zhang. &quot;Biometric Authentication Using Smartphone-Generated Acoustic Signals Modulated by Vascular Dynamics.&quot; <b>ACM IASA 2026</b>.'
 ---
