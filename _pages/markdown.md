@@ -9,6 +9,11 @@ redirect_from:
 
 ### 👩‍🏫 Mentorship
 
+- **Yiting Zhang** (Northwestern University)  
+  *June 2025 – Nov. 2025*  
+  *IMUSteth: On-Body Stethoscope Localization with Inertial Sensing for Home Self-Screening*  
+  **ACM IASA 2025**
+
 - **Jordan Waters** (University of Cambridge)  
   *Oct. 2023 – July 2024*  
   *Heart Sound Segmentation using In-Ear Microphones*  

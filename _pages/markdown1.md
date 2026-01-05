@@ -9,6 +9,9 @@ redirect_from:
 
 ### 👩‍🏫 Teaching
 
+- **Computer Organization I**, Florida State University 
+  *Instructor* — Spring 2026
+
 - **Mobile, Wearable Systems and Machine Learning**, University of Cambridge  
   *Lecturer* — Michaelmas term 2024/2025, Michaelmas term 2023/2024
 
