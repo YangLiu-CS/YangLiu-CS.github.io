@@ -9,6 +9,6 @@ venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/bibtex1.bib'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3737901.3768367'
 bibtexurl: # 'https://arxiv.org/abs/2506.05720'
-citation: 'Jiao Li, <b>Yang Liu</b>, Wenye Liu, Xuanyu Liu, Jin Zhang. &quot;Biometric Authentication Using Smartphone-Generated Acoustic Signals Modulated by Vascular Dynamics.&quot; <b>ACM IASA 2026</b>.'
+citation: 'Jiao Li, <b>Yang Liu</b>, Wenye Liu, Xuanyu Liu, Jin Zhang. &quot;Biometric Authentication Using Smartphone-Generated Acoustic Signals Modulated by Vascular Dynamics.&quot; <b>ACM IASA 2025</b>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
