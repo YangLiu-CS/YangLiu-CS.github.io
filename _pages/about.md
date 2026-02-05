@@ -13,7 +13,9 @@ I am an assistant professor in the Department of Computer Science at Florida Sta
 <!-- ====== -->
 My research lies at the intersection of wearable sensing, mobile computing, and artificial intelligence. I develop intelligent mobile and wearable technologies that enable human-centered sensing and computing. My work creates novel systems that deepen our understanding of human behavior, monitor wellness, enhance interactions between people and their environments, and address potential privacy risks. By uncovering insights into individual behavior, health, and interaction patterns, my research advances cutting-edge areas such as mobile health, human-computer interaction, the Internet of Things, and cybersecurity. <b>My goal is to design and develop mobile computing technologies that intelligently respond to real-world needs and meaningfully improve quality of life.</b>
 
-I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communications</b> (10 global awardees). My work has received the <b>ACM SIGBED China Outstanding Doctoral Thesis Award</b> in 2021 (3 national awardees in China), as well as <b>Best Paper Awards</b> at ACM EarComp 2023 and IEEE PerCom 2025 (1/152). My work has also appeared in top-tier venues such as ACM MobiSys, ACM SenSys, ACM IMWUT/UbiComp, ACM CHI, IEEE INFOCOM, and IEEE PerCom, among other leading venues. <span style="color:red;"><b>I am looking for multiple self-motivated students for Ph.D. or research intern roles starting in Spring/Fall 2026. Please email me (yl25r@fsu.edu) with your CV and transcripts.</b></span>
+I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communications</b> (10 global awardees). My work has received the <b>ACM SIGBED China Outstanding Doctoral Thesis Award</b> in 2021 (3 national awardees in China), as well as <b>Best Paper Awards</b> at ACM EarComp 2023 and IEEE PerCom 2025 (1/152). My work has also appeared in top-tier venues such as ACM MobiSys, ACM SenSys, ACM IMWUT/UbiComp, ACM CHI, IEEE INFOCOM, and IEEE PerCom, among other leading venues.
+
+<span style="color:red;"><b>I am looking for multiple self-motivated students for Ph.D. or research intern roles starting in Spring/Fall 2026. Please email me (yl25r@fsu.edu) with your CV and transcripts.</b></span>
 
 <!-- Getting started
 ======
@@ -26,6 +28,8 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+
+- I'm honored to be selected for the TOSN Distinguished Reviewer Board for the 2026–2027 term.
 
 - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February.
 
@@ -49,6 +53,7 @@ News
 
 Selected Awards
 ------
+- Distinguished Reviewer Board -- ACM TOSN, 2026-2027
 - Mark Weiser Best Paper Award -- IEEE PerCom 2025
 - N2Women: Rising Stars in Computer Networking and Communications -- 2024
 - Best Paper Award -- ACM EarComp 2023
@@ -77,7 +82,7 @@ Invited Talks
 Services
 ------
 <b>Organizing Committee</b>
-- 2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; CS Student Seminar Committee, FSU
+- 2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Admissions Committee, CS FSU
 - 2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge
 - 2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge
 - 2022: Publicity Chairs, ACM MobiCom
@@ -97,30 +102,16 @@ Services
 - 2023: ACM EarComp; ACM SmartWear
 - 2022: ACM EarComp
 
-<b>Invited Journal Reviewer</b>
-- Nature Communications
-- ACM CHI
-- ACM IMWUT (UbiComp)
-- ACM Transactions on Sensor Networks
-- ACM Transactions on Internet of Things
-- IEEE Transactions on Mobile Computing
-- IEEE Internet of Things Journal
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Network Science and Engineering
-- IEEE Pervasive Computing
-- IEEE Sensors Journal
-- MDPI Sensors Journal
-- MDPI Applied Science Journal
-- MDPI Diagnostics
-- Journal of Ambient Intelligence and Humanized Computing
-- Pervasive and Mobile Computing
-- Smart Health
-- International Journal of Environmental Research and Public Health
-- JMIR Cardio
-
 <b>Editor</b>
 - IEEE Pervasive Computing;
 - MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
+
+<b>Invited Journal Reviewer</b>
+- Nature Communications
+- ACM CHI; ACM IMWUT (UbiComp); ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things
+- IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; IEEE Sensors Journal
+- MDPI Sensors Journal; MDPI Applied Science Journal; MDPI Diagnostics
+- Journal of Ambient Intelligence and Humanized Computing; Pervasive and Mobile Computing; Smart Health; International Journal of Environmental Research and Public Health; JMIR Cardio
 
 <b>Invited Funding Reviewer</b>
 - Pro² Network+ Funding
