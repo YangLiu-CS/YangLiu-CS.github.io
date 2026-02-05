@@ -29,7 +29,7 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 News
 ------
 
-- I'm honored to be selected for the TOSN Distinguished Reviewer Board for the 2026–2027 term.
+- I'm honored to be selected for the ACM TOSN Distinguished Reviewer Board for the 2026–2027 term.
 
 - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February.
 
