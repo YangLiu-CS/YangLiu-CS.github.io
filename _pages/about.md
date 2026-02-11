@@ -99,11 +99,11 @@ Services
 - 2022: ACM SenSys (Shadow Program); IEEE ICDCS (PhD Symposium); IEEE ICPADS
 - 2020: EAI Qshine
 
-<b>Technical Program Committee Member (Workshop)</b>
+<!-- <b>Technical Program Committee Member (Workshop)</b>
 - 2025: ACM HumanSys; ACM EarComp; ACM IASA; ACM BodySys; DM-SmartHealth
 - 2024: ACM HumanSys; ACM EarComp; ACM MobiCom4AgeTech; ACM BodySys; ACM EIFCom
 - 2023: ACM EarComp; ACM SmartWear
-- 2022: ACM EarComp
+- 2022: ACM EarComp -->
 
 <b>Editor</b>
 - IEEE Pervasive Computing;
@@ -116,11 +116,11 @@ Services
 - MDPI Sensors Journal; MDPI Applied Science Journal; MDPI Diagnostics
 - Journal of Ambient Intelligence and Humanized Computing; Pervasive and Mobile Computing; Smart Health; International Journal of Environmental Research and Public Health; JMIR Cardio
 
-<b>Invited Funding Reviewer</b>
-- Pro² Network+ Funding
+<!-- <b>Invited Funding Reviewer</b>
+- Pro² Network+ Funding -->
 
-<b>Panel / Mentor / Session Chair</b>
-- 2025: Faculty Mentor, PerCom PhD Forum; Panels, WiSense Workshop; Session Chair, MobiUK
+<!-- <b>Panel / Mentor / Session Chair</b>
+- 2025: Faculty Mentor, PerCom PhD Forum; Panels, WiSense Workshop; Session Chair, MobiUK -->
 
 <!-- Services
 ------
