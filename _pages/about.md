@@ -97,7 +97,7 @@ Services
 - 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
 - 2023: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); IEEE ICDCS
 - 2022: ACM SenSys (Shadow Program); IEEE ICDCS (PhD Symposium); IEEE ICPADS
-- 2020: EAI Qshine
+<!-- - 2020: EAI Qshine -->
 
 <!-- <b>Technical Program Committee Member (Workshop)</b>
 - 2025: ACM HumanSys; ACM EarComp; ACM IASA; ACM BodySys; DM-SmartHealth
