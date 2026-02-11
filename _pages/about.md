@@ -29,21 +29,23 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 News
 ------
 
+- 2025–2026 FYAP Grant Awarded. Thankful for the support from FSU!
+
 - I'm honored to be selected for the ACM TOSN Distinguished Reviewer Board for the 2026–2027 term.
 
 - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February.
 
 - I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.
 
-- Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025!
+<!-- - Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025! -->
 
-- Our recent work, “EarMeter: Continuous Respiration Volume Monitoring with Earables,” has been accepted for publication in IMWUT 2025!
+<!-- - Our recent work, “EarMeter: Continuous Respiration Volume Monitoring with Earables,” has been accepted for publication in IMWUT 2025! -->
 
-- Our recent work, “Measuring Cardiac Stroke Volume Through In-ear Audio Sensing,” has been accepted for publication in Nature Communications!
+<!-- - Our recent work, “Measuring Cardiac Stroke Volume Through In-ear Audio Sensing,” has been accepted for publication in Nature Communications! -->
 
-- Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720.
+<!-- - Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720. -->
 
-- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.5; CiteScore: 8.2) — learn more at https://www.mdpi.com/si/237279.
+- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.5; CiteScore: 8.2; Submission due: 29 July 2026) — learn more at https://www.mdpi.com/si/237279.
 
 <!-- - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor. -->
 
@@ -53,6 +55,7 @@ News
 
 Selected Awards
 ------
+- FSU FYAP Award -- FSU, 2025–2026
 - Distinguished Reviewer Board -- ACM TOSN, 2026-2027
 - Mark Weiser Best Paper Award -- IEEE PerCom 2025
 - N2Women: Rising Stars in Computer Networking and Communications -- 2024
@@ -89,7 +92,7 @@ Services
 - 2021: Web Chairs, IEEE ICPADS
 
 <b>Technical Program Committee Member (Conference)</b>
-- 2026: ACM SenSys; AAMAS
+- 2026: ACM SenSys; AAMAS; ACM CHASE
 - 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
 - 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
 - 2023: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); IEEE ICDCS
