@@ -61,13 +61,13 @@ Selected Awards
 - N2Women: Rising Stars in Computer Networking and Communications -- 2024
 - Best Paper Award -- ACM EarComp 2023
 - Outstanding Doctoral Thesis Award -- ACM SIGBED China, 2021
-- Student Travel Grant -- ACM MobiSys 2019
-- Institutional Research Tuition Scholarship -- City University of Hong Kong (CityU), 2019
-- Outstanding Academic Performance Award -- CityU, 2019
-- Best-in-Session Presentation Award -- IEEE INFOCOM 2018
-- Student Travel Grant -- IEEE INFOCOM 2018
-- Outstanding Academic Performance Award -- CityU, 2018
-- Outstanding Poster Award -- CityU, 2017
+<!-- - Student Travel Grant -- ACM MobiSys 2019 -->
+<!-- - Institutional Research Tuition Scholarship -- City University of Hong Kong (CityU), 2019 -->
+<!-- - Outstanding Academic Performance Award -- CityU, 2019 -->
+<!-- - Best-in-Session Presentation Award -- IEEE INFOCOM 2018 -->
+<!-- - Student Travel Grant -- IEEE INFOCOM 2018 -->
+<!-- - Outstanding Academic Performance Award -- CityU, 2018 -->
+<!-- - Outstanding Poster Award -- CityU, 2017 -->
 
 Invited Talks
 ------
