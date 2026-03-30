@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /markdown/
 title: "Mentorship"
 author_profile: true
@@ -10,17 +10,17 @@ redirect_from:
 ### 👩‍🏫 Mentorship
 
 - **Zoey Xiaochen Tan** (University of Cambridge)  
-  *Mar. 2025 – Mar. 2026*  
+  *Mar. 2025 – Mar. 2026*
   *NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals*  
   **ACM SenSys'26**
 
 - **Jiani Cao** (City University of Hong Kong)  
-  *Mar. 2025 – Mar. 2026*  
+  *Mar. 2025 – Sep. 2025*
   *NeuroPath: Practically Adopting Motor Imagery Decoding through EEG Signals*  
   **ACM SenSys'26**
 
 - **Yiting Zhang** (Northwestern University)  
-  *June 2025 – Nov. 2025*  
+  *June 2025 – Nov. 2025*
   *IMUSteth: On-Body Stethoscope Localization with Inertial Sensing for Home Self-Screening*  
   **ACM IASA 2025**
 
@@ -57,7 +57,7 @@ redirect_from:
 - **Jiao Li** (City University of Hong Kong)  
   *Oct. 2021 – July 2023*  
   *GASLA: Enhancing the Applicability of Sign Language Translation*  
-  **IEEE INFOCOM'22, IEEE TMC'24** -->
+  **IEEE INFOCOM'22, IEEE TMC'24**
 
 
 <!-- ## Locations of key files/directories
