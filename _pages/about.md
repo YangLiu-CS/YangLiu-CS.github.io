@@ -28,12 +28,15 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+- Our recent work, “NeuroPath: Practically Adopting Motor Imagery Decoding through EEG Signals,” has been accepted for publication in ACM SenSys 2026!
+
+- Our recent work, “NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals,” has been accepted for publication in ACM SenSys 2026!
 
 - 2025–2026 FYAP Grant Awarded. Thankful for the support from FSU!
 
 - I'm honored to be selected for the ACM TOSN Distinguished Reviewer Board for the 2026–2027 term.
 
-- Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February.
+<!-- - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February. -->
 
 - I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.
 
@@ -93,7 +96,7 @@ Services
 - 2021: Web Chairs, IEEE ICPADS
 
 <b>Technical Program Committee Member (Conference)</b>
-- 2026: ACM SenSys; AAMAS; ACM CHASE
+- 2026: ACM SenSys; AAMAS; IEEE/ACM CHASE
 - 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
 - 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
 - 2023: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); IEEE ICDCS
@@ -107,8 +110,9 @@ Services
 - 2022: ACM EarComp -->
 
 <b>Editor</b>
-- IEEE Pervasive Computing;
-- MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
+- Associate Editor, ACM IMWUT
+- Editor, IEEE Pervasive Computing
+- Editor, MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
 
 <b>Invited Journal Reviewer</b>
 - Nature Communications
