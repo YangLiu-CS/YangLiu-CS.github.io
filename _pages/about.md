@@ -29,6 +29,10 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 News
 ------
 
+- Our recent work, “A Survey of Earable Technology: Trends, Tools, and the Road Ahead,” has been accepted for publication in ACM IMWUT 2026!
+
+- Our recent work, “EarSleeve: Transforming Everyday Earphones into a 12-Lead ECG Sensing Platform,” has been accepted for publication in ACM SenSys 2026!
+
 - Our recent work, “NeuroPath: Practically Adopting Motor Imagery Decoding through EEG Signals,” has been accepted for publication in ACM SenSys 2026!
 
 - Our recent work, “NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals,” has been accepted for publication in ACM SenSys 2026!
