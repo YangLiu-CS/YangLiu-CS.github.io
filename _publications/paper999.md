@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/bibtex1.bib'
-paperurl: # 'https://dl.acm.org/doi/10.1145/3789514.3792046'
+paperurl: 'https://dl.acm.org/doi/epdf/10.1145/3774906.3802763'
 bibtexurl: # 'https://arxiv.org/abs/2506.05720'
 citation: '<u>Zoey Xiaochen Tan</u>, <b>Yang Liu</b>, Kayla-Jade Butkow, Cecilia Mascolo. &quot;NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals.&quot; <b>ACM SenSys 2026</b>.'
 ---
