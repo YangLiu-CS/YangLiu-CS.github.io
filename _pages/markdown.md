@@ -9,6 +9,11 @@ redirect_from:
 
 ### 👩‍🏫 Mentorship
 
+- **Junxi Xia** (Northwestern University)  
+  *Aug. 2025 – Mar. 2026*  
+  *EarSleeve: Transforming Everyday Earphones into a 12-Lead ECG Sensing Platform*  
+  **ACM SenSys'26**
+
 - **Zoey Xiaochen Tan** (University of Cambridge)  
   *Mar. 2025 – Mar. 2026*  
   *NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals*  
