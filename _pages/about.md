@@ -101,6 +101,7 @@ Services
 - 2021: Web Chairs, IEEE ICPADS
 
 <b>Technical Program Committee Member (Conference)</b>
+- 2027: IEEE INFOCOM
 - 2026: ACM SenSys; AAMAS; IEEE/ACM CHASE; ACM MobiSys (Rising Stars Forum)
 - 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
 - 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
