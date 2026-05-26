@@ -28,6 +28,7 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+<!-- - Our recent work, “Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting,” has been accepted for publication in ACM MobiSys 2026! -->
 
 - Our recent work, “A Survey of Earable Technology: Trends, Tools, and the Road Ahead,” has been accepted for publication in ACM IMWUT 2026!
 
@@ -101,7 +102,7 @@ Services
 - 2021: Web Chairs, IEEE ICPADS
 
 <b>Technical Program Committee Member (Conference)</b>
-- 2027: IEEE INFOCOM; SenSys 2027
+- 2027: IEEE INFOCOM; ACM SenSys 2027
 - 2026: ACM SenSys; AAMAS; IEEE/ACM CHASE; ACM MobiSys (Rising Stars Forum)
 - 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
 - 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
