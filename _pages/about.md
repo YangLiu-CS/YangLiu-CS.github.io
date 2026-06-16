@@ -124,7 +124,7 @@ Services
 <b>Invited Journal Reviewer</b>
 - Nature Communications
 - ACM CHI; ACM IMWUT; ACM UIST; ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things
-- IEEE Transactions on Mobile Computing; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; IEEE Sensors Journal
+- IEEE Transactions on Mobile Computing; IEEE Transactions on Networking; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; IEEE Sensors Journal
 - MDPI Sensors Journal; MDPI Applied Science Journal; MDPI Diagnostics
 - Journal of Ambient Intelligence and Humanized Computing; Pervasive and Mobile Computing; Smart Health; International Journal of Environmental Research and Public Health; JMIR Cardio
 
