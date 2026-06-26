@@ -28,7 +28,7 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
-- Our recent work, “Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting,” has been accepted for publication in ACM MobiSys 2026!
+- Our recent work, “Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting,” has been published in ACM MobiSys 2026!
 
 - Our recent work, “A Survey of Earable Technology: Trends, Tools, and the Road Ahead,” has been published in ACM IMWUT 2026!
 
@@ -95,14 +95,14 @@ Invited Talks
 Services
 ------
 <b>Organizing Committee</b>
-- 2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Admissions Committee, CS FSU
+- 2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Committee, CS FSU
 - 2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge
 - 2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge
 - 2022: Publicity Chairs, ACM MobiCom
 - 2021: Web Chairs, IEEE ICPADS
 
 <b>Technical Program Committee Member (Conference)</b>
-- 2027: IEEE INFOCOM; ACM SenSys; HPCAsia
+- 2027: ACM SenSys; IEEE INFOCOM; IEEE PerCom; HPCAsia
 - 2026: ACM SenSys; AAMAS; IEEE/ACM CHASE; ACM MobiSys (Rising Stars Forum); ACM ISWC
 - 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
 - 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
