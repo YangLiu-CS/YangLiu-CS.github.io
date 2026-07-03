@@ -82,6 +82,7 @@ Selected Awards
 
 Invited Talks
 ------
+- <b>[Talk]</b> Intelligent Wearable Sensing for Continuous Health Monitoring: From Everyday Wearables to Robust Health Monitoring in Daily Life, FSU CS Board of Advisors (BOA) Meeting, April 2026, FL, US.
 - <b>[Lecture]</b> Embedded Wearable AI for Continuous Health Monitoring: From Commodity Wearables to Robust Physiological Sensing in Daily Life, EE, Columbia University, February 2026, Virtual Event.
 - <b>[Lecture]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, School of Computing, University of Georgia, November 2025, Virtual Event.
 - <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, ECE, Northwestern University, October 2025, IL, US.
