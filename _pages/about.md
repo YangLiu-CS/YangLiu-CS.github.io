@@ -28,6 +28,8 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 
 News
 ------
+- Our recent work, “ImpactEar: Cross Activity Ground Reaction Force Estimation using Earable IMUs,” has been accepted in ACM IMWUT 2026!
+
 - Our recent work, “Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting,” has been published in ACM MobiSys 2026!
 
 - Our recent work, “A Survey of Earable Technology: Trends, Tools, and the Road Ahead,” has been published in ACM IMWUT 2026!
