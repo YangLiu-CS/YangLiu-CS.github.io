@@ -26,43 +26,31 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-News
-------
-- Our recent work, “ImpactEar: Cross Activity Ground Reaction Force Estimation using Earable IMUs,” has been accepted in ACM IMWUT 2026!
-
-- Our recent work, “Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting,” has been published in ACM MobiSys 2026!
-
-- Our recent work, “A Survey of Earable Technology: Trends, Tools, and the Road Ahead,” has been published in ACM IMWUT 2026!
-
-- Our recent work, “EarSleeve: Transforming Everyday Earphones into a 12-Lead ECG Sensing Platform,” has been published in ACM SenSys 2026!
-
-- Our recent work, “NeuroPath: Practically Adopting Motor Imagery Decoding through EEG Signals,” has been published in ACM SenSys 2026!
-
-- Our recent work, “NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals,” has been published in ACM SenSys 2026!
-
-- 2025–2026 FYAP Grant Awarded. Thankful for the support from FSU!
-
-- I'm honored to be selected for the ACM TOSN Distinguished Reviewer Board for the 2026–2027 term.
-
-<!-- - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February. -->
-
-- I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.
-
-<!-- - Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025! -->
-
-<!-- - Our recent work, “EarMeter: Continuous Respiration Volume Monitoring with Earables,” has been accepted for publication in IMWUT 2025! -->
-
-<!-- - Our recent work, “Measuring Cardiac Stroke Volume Through In-ear Audio Sensing,” has been accepted for publication in Nature Communications! -->
-
-<!-- - Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720. -->
-
-- Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.5; CiteScore: 8.2; Submission due: 29 July 2026) — learn more at https://www.mdpi.com/si/237279.
-
-<!-- - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor. -->
-
-<!-- - Our recent work Deep-Learning Based Segmentation of In-Ear Cardiac Sounds led by my Part II student, Jordan Waters, has been accepted by IEEE EMBC 2025! Congrats, Jordan!
-
-- Our recent work RespEar: Earable-Based Robust Respiratory Rate Monitoring has won the Mark Weiser Best Paper Award at IEEE PerCom 2025! -->
+<section class="homepage-panel homepage-panel--news" id="news">
+  <h2>News</h2>
+  <div class="homepage-panel__body">
+    <ul>
+      <li>Our recent work, “ImpactEar: Cross Activity Ground Reaction Force Estimation using Earable IMUs,” has been accepted in ACM IMWUT 2026!</li>
+      <li>Our recent work, “Reliable Metal Foreign Object Detection for Mobile Wireless Charging via Harmonic Fingerprinting,” has been published in ACM MobiSys 2026!</li>
+      <li>Our recent work, “A Survey of Earable Technology: Trends, Tools, and the Road Ahead,” has been published in ACM IMWUT 2026!</li>
+      <li>Our recent work, “EarSleeve: Transforming Everyday Earphones into a 12-Lead ECG Sensing Platform,” has been published in ACM SenSys 2026!</li>
+      <li>Our recent work, “NeuroPath: Practically Adopting Motor Imagery Decoding through EEG Signals,” has been published in ACM SenSys 2026!</li>
+      <li>Our recent work, “NutriEar: Robust Nutrition-Aware Food Classification from In-Ear Acoustic Signals,” has been published in ACM SenSys 2026!</li>
+      <li>2025–2026 FYAP Grant Awarded. Thankful for the support from FSU!</li>
+      <li>I'm honored to be selected for the ACM TOSN Distinguished Reviewer Board for the 2026–2027 term.</li>
+      <li>I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.</li>
+      <li>Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.5; CiteScore: 8.2; Submission due: 29 July 2026) — learn more at https://www.mdpi.com/si/237279.</li>
+    </ul>
+    <!-- - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February. -->
+    <!-- - Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025! -->
+    <!-- - Our recent work, “EarMeter: Continuous Respiration Volume Monitoring with Earables,” has been accepted for publication in IMWUT 2025! -->
+    <!-- - Our recent work, “Measuring Cardiac Stroke Volume Through In-ear Audio Sensing,” has been accepted for publication in Nature Communications! -->
+    <!-- - Our latest work, "A Survey of Earable Technology: Trends, Tools, and the Road Ahead", is now available on https://arxiv.org/abs/2506.05720. -->
+    <!-- - I will start a new position in the Department of Computer Science at Florida State University in Fall 2025 as a tenure-track Assistant Professor. -->
+    <!-- - Our recent work Deep-Learning Based Segmentation of In-Ear Cardiac Sounds led by my Part II student, Jordan Waters, has been accepted by IEEE EMBC 2025! Congrats, Jordan!
+    - Our recent work RespEar: Earable-Based Robust Respiratory Rate Monitoring has won the Mark Weiser Best Paper Award at IEEE PerCom 2025! -->
+  </div>
+</section>
 
 Selected Awards
 ------
@@ -80,56 +68,118 @@ Selected Awards
 <!-- - Outstanding Academic Performance Award -- CityU, 2018 -->
 <!-- - Outstanding Poster Award -- CityU, 2017 -->
 
-Invited Talks
-------
-- <b>[Talk]</b> Intelligent Wearable Sensing for Continuous Health Monitoring: From Everyday Wearables to Robust Health Monitoring in Daily Life, FSU CS Board of Advisors (BOA) Meeting, April 2026, FL, US.
-- <b>[Lecture]</b> Embedded Wearable AI for Continuous Health Monitoring: From Commodity Wearables to Robust Physiological Sensing in Daily Life, EE, Columbia University, February 2026, Virtual Event.
-- <b>[Lecture]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, School of Computing, University of Georgia, November 2025, Virtual Event.
-- <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, ECE, Northwestern University, October 2025, IL, US.
-- <b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, Google, June 2025, Virtual Event.
-- <b>[Seminar]</b> Towards Smarter, Healthier, and Secure Lives Through Intelligent Wearable Sensing, CS, Florida State University, April 2025, FL, US.
-- <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Purdue University, February 2025, IN, US.
-- <b>[Lecture]</b> Toward Smarter and Healthier Lives Through Embedded Wearable AI, EE, Columbia University, February 2025, Virtual Event.
-<!-- - <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Northwestern University, February 2025, IL, US. -->
-- <b>[Seminar]</b> Intelligent Wearable Sensing for Understanding Human Behavior and Monitoring Wellness, CS, University of Southampton, January 2025, Southampton, UK.
-- <b>[Seminar]</b> Toward More Interactive, Healthier, and More Secure Lives Through Intelligent Sensing, CS, University College London, January 2025, London, UK.
-- <b>[Lecture]</b> Less is More: Innovative Wearable Sensing for Understanding Human Behavior and Monitoring Wellbeing, CS, North Carolina State University, October 2024, Virtual Event.
+<section class="homepage-panel homepage-panel--talks" id="invited-talks">
+  <h2>Invited Talks</h2>
+  <div class="homepage-panel__body">
+    <ul>
+      <li><b>[Talk]</b> Intelligent Wearable Sensing for Continuous Health Monitoring: From Everyday Wearables to Robust Health Monitoring in Daily Life, FSU CS Board of Advisors (BOA) Meeting, April 2026, FL, US.</li>
+      <li><b>[Lecture]</b> Embedded Wearable AI for Continuous Health Monitoring: From Commodity Wearables to Robust Physiological Sensing in Daily Life, EE, Columbia University, February 2026, Virtual Event.</li>
+      <li><b>[Lecture]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, School of Computing, University of Georgia, November 2025, Virtual Event.</li>
+      <li><b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, ECE, Northwestern University, October 2025, IL, US.</li>
+      <li><b>[Seminar]</b> Intelligent Wearable Sensing for Human Behavior Understanding and Wellness Monitoring, Google, June 2025, Virtual Event.</li>
+      <li><b>[Seminar]</b> Towards Smarter, Healthier, and Secure Lives Through Intelligent Wearable Sensing, CS, Florida State University, April 2025, FL, US.</li>
+      <li><b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Purdue University, February 2025, IN, US.</li>
+      <li><b>[Lecture]</b> Toward Smarter and Healthier Lives Through Embedded Wearable AI, EE, Columbia University, February 2025, Virtual Event.</li>
+      <li><b>[Seminar]</b> Intelligent Wearable Sensing for Understanding Human Behavior and Monitoring Wellness, CS, University of Southampton, January 2025, Southampton, UK.</li>
+      <li><b>[Seminar]</b> Toward More Interactive, Healthier, and More Secure Lives Through Intelligent Sensing, CS, University College London, January 2025, London, UK.</li>
+      <li><b>[Lecture]</b> Less is More: Innovative Wearable Sensing for Understanding Human Behavior and Monitoring Wellbeing, CS, North Carolina State University, October 2024, Virtual Event.</li>
+    </ul>
+    <!-- - <b>[Seminar]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, ECE, Northwestern University, February 2025, IL, US. -->
+  </div>
+</section>
 
-Services
-------
-<b>Organizing Committee</b>
-- 2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Committee, CS FSU
-- 2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge
-- 2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge
-- 2022: Publicity Chairs, ACM MobiCom
-- 2021: Web Chairs, IEEE ICPADS
+<section class="homepage-panel homepage-panel--services" id="services">
+  <h2>Services</h2>
+  <div class="service-switcher" data-service-switcher>
+    <div class="service-switcher__nav" role="tablist" aria-label="Service sections">
+      <button class="service-switcher__tab is-active" type="button" role="tab" aria-selected="true" aria-controls="service-panel-organizing" data-service-target="organizing">Organizing Committee</button>
+      <button class="service-switcher__tab" type="button" role="tab" aria-selected="false" aria-controls="service-panel-tpc" data-service-target="tpc">TPC</button>
+      <button class="service-switcher__tab" type="button" role="tab" aria-selected="false" aria-controls="service-panel-editor" data-service-target="editor">Editor</button>
+      <button class="service-switcher__tab" type="button" role="tab" aria-selected="false" aria-controls="service-panel-reviewer" data-service-target="reviewer">Journal Reviewer</button>
+    </div>
 
-<b>Technical Program Committee Member (Conference)</b>
-- 2027: ACM SenSys; IEEE INFOCOM; IEEE PerCom; HPCAsia
-- 2026: ACM SenSys; AAMAS; IEEE/ACM CHASE; ACM MobiSys (Rising Stars Forum); ACM ISWC
-- 2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD
-- 2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC
-- 2023: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); IEEE ICDCS
-- 2022: ACM SenSys (Shadow Program); IEEE ICDCS (PhD Symposium); IEEE ICPADS
-<!-- - 2020: EAI Qshine -->
+    <div class="homepage-panel__body service-switcher__body">
+      <section class="service-switcher__panel is-active" id="service-panel-organizing" role="tabpanel" data-service-panel="organizing">
+        <h3>Organizing Committee</h3>
+        <ul>
+          <li>2026: Registration Chairs, ACM MobiSys; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Committee, CS FSU</li>
+          <li>2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge</li>
+          <li>2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge</li>
+          <li>2022: Publicity Chairs, ACM MobiCom</li>
+          <li>2021: Web Chairs, IEEE ICPADS</li>
+        </ul>
+      </section>
 
-<!-- <b>Technical Program Committee Member (Workshop)</b>
-- 2025: ACM HumanSys; ACM EarComp; ACM IASA; ACM BodySys; DM-SmartHealth
-- 2024: ACM HumanSys; ACM EarComp; ACM MobiCom4AgeTech; ACM BodySys; ACM EIFCom
-- 2023: ACM EarComp; ACM SmartWear
-- 2022: ACM EarComp -->
+      <section class="service-switcher__panel" id="service-panel-tpc" role="tabpanel" data-service-panel="tpc" hidden>
+        <h3>Technical Program Committee Member (Conference)</h3>
+        <ul>
+          <li>2027: ACM SenSys; IEEE INFOCOM; IEEE PerCom; HPCAsia</li>
+          <li>2026: ACM SenSys; AAMAS; IEEE/ACM CHASE; ACM MobiSys (Rising Stars Forum); ACM ISWC</li>
+          <li>2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD</li>
+          <li>2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC</li>
+          <li>2023: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); IEEE ICDCS</li>
+          <li>2022: ACM SenSys (Shadow Program); IEEE ICDCS (PhD Symposium); IEEE ICPADS</li>
+        </ul>
+        <!-- - 2020: EAI Qshine -->
 
-<b>Editor</b>
-- Associate Editor, ACM IMWUT
-- Editor, IEEE Pervasive Computing
-- Editor, MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”
+        <!-- <b>Technical Program Committee Member (Workshop)</b>
+        - 2025: ACM HumanSys; ACM EarComp; ACM IASA; ACM BodySys; DM-SmartHealth
+        - 2024: ACM HumanSys; ACM EarComp; ACM MobiCom4AgeTech; ACM BodySys; ACM EIFCom
+        - 2023: ACM EarComp; ACM SmartWear
+        - 2022: ACM EarComp -->
+      </section>
 
-<b>Invited Journal Reviewer</b>
-- Nature Communications
-- ACM CHI; ACM IMWUT; ACM UIST; ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things
-- IEEE Transactions on Mobile Computing; IEEE Transactions on Networking; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; IEEE Sensors Journal
-- MDPI Sensors Journal; MDPI Applied Science Journal; MDPI Diagnostics
-- Journal of Ambient Intelligence and Humanized Computing; Pervasive and Mobile Computing; Smart Health; International Journal of Environmental Research and Public Health; JMIR Cardio
+      <section class="service-switcher__panel" id="service-panel-editor" role="tabpanel" data-service-panel="editor" hidden>
+        <h3>Editor</h3>
+        <ul>
+          <li>Associate Editor, ACM IMWUT</li>
+          <li>Editor, IEEE Pervasive Computing</li>
+          <li>Editor, MDPI Sensors – Special Issue “State of the Art in Wearable Sensors for Health Monitoring”</li>
+        </ul>
+      </section>
+
+      <section class="service-switcher__panel" id="service-panel-reviewer" role="tabpanel" data-service-panel="reviewer" hidden>
+        <h3>Invited Journal Reviewer</h3>
+        <ul>
+          <li>Nature Communications</li>
+          <li>ACM CHI; ACM IMWUT; ACM UIST; ACM Transactions on Sensor Networks; ACM Transactions on Internet of Things</li>
+          <li>IEEE Transactions on Mobile Computing; IEEE Transactions on Networking; IEEE Internet of Things Journal; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Network Science and Engineering; IEEE Pervasive Computing; IEEE Sensors Journal</li>
+          <li>MDPI Sensors Journal; MDPI Applied Science Journal; MDPI Diagnostics</li>
+          <li>Journal of Ambient Intelligence and Humanized Computing; Pervasive and Mobile Computing; Smart Health; International Journal of Environmental Research and Public Health; JMIR Cardio</li>
+        </ul>
+      </section>
+    </div>
+  </div>
+</section>
+
+<script>
+  (function () {
+    var switchers = document.querySelectorAll('[data-service-switcher]');
+
+    switchers.forEach(function (switcher) {
+      var tabs = switcher.querySelectorAll('[data-service-target]');
+      var panels = switcher.querySelectorAll('[data-service-panel]');
+
+      tabs.forEach(function (tab) {
+        tab.addEventListener('click', function () {
+          var target = tab.getAttribute('data-service-target');
+
+          tabs.forEach(function (item) {
+            var selected = item === tab;
+            item.classList.toggle('is-active', selected);
+            item.setAttribute('aria-selected', selected ? 'true' : 'false');
+          });
+
+          panels.forEach(function (panel) {
+            var selected = panel.getAttribute('data-service-panel') === target;
+            panel.classList.toggle('is-active', selected);
+            panel.hidden = !selected;
+          });
+        });
+      });
+    });
+  }());
+</script>
 
 <!-- <b>Invited Funding Reviewer</b>
 - Pro² Network+ Funding -->
