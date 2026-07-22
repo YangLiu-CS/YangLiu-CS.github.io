@@ -9,7 +9,7 @@
 
 main:
   - title: "Research & Projects"
-    url: /cv/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -30,7 +30,7 @@ main:
   #   url: /cv-json/
     
   - title: "Mentorship"
-    url: /markdown/
+    url: /mentorship/
 
   - title: "Teaching"
-    url: /markdown1/
+    url: /teaching/

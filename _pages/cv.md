@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "Research & Projects"
-permalink: /cv/
+permalink: /research/
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
 ---
 
