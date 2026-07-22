@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'https://ieeexplore.ieee.org/document/10638728'
+paperurl: 'https://api.repository.cam.ac.uk/server/api/core/bitstreams/988bc231-b440-4013-9f69-d08ac504f7a2/content'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jake Stuchbury-Wass, Mathias Ciliberto, Kayla-Jade Butkow, Qiang Yang, <b>Yang Liu</b>, Dong Ma, Cecilia Mascolo. &quot;Ear-worn inertial sensors can predict gait metrics and reconstruct vertical ground reaction force curves during running.&quot; <b>Journal of Applied Biomechanics 2026</b>.'
 ---

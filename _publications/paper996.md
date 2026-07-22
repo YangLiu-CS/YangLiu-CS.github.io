@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'https://ieeexplore.ieee.org/document/10638728'
+paperurl: 'https://www.nature.com/articles/s41467-026-75642-0_reference.pdf'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Kayla-Jade Butkow, Navazh Jalaludeen, <b>Yang Liu</b>, Jake Stuchbury-Wass, Qiang Yang, Mathias Ciliberto, Dong Ma, Joseph Cheriyan, Cecilia Mascolo. &quot;Measuring Cardiac Stroke Volume Through In-ear Audio Sensing.&quot; <b>Nature Communications 2026</b>.'
 ---
