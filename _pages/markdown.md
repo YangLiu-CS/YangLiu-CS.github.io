@@ -9,6 +9,9 @@ redirect_from:
 
 ### 👩‍🏫 Mentorship
 
+**Note:** New mentorship updates will no longer be maintained on this page. Future updates will be posted on the [Mobile & Wearable Systems Group people page](https://yangliu-cs.github.io/mobile-wearable-systems-group/people/).
+{: .notice}
+
 - **Junxi Xia** (Northwestern University)  
   *Aug. 2025 – Mar. 2026*  
   *EarSleeve: Transforming Everyday Earphones into a 12-Lead ECG Sensing Platform*  
