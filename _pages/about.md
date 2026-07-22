@@ -15,7 +15,13 @@ My research lies at the intersection of wearable sensing, mobile computing, and 
 
 I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communications</b> (10 global awardees). My work has received the <b>ACM SIGBED China Outstanding Doctoral Thesis Award</b> in 2021 (3 national awardees in China), as well as <b>Best Paper Awards</b> at ACM EarComp 2023 and IEEE PerCom 2025 (1/152). My work has also appeared in top-tier venues such as ACM MobiSys, ACM SenSys, ACM IMWUT/UbiComp, ACM CHI, IEEE INFOCOM, and IEEE PerCom, among other leading venues.
 
-<span style="color:red;"><b>I am looking for multiple self-motivated students for Ph.D. or research intern roles starting in Spring/Fall 2026. Please email me (yl25r@fsu.edu) with your CV and transcripts.</b></span>
+<section class="homepage-panel homepage-panel--group" id="group-website">
+  <h2>Mobile & Wearable Systems Group</h2>
+  <div class="homepage-panel__body">
+    <p><b>Group website:</b> <a href="https://yangliu-cs.github.io/mobile-wearable-systems-group/">https://yangliu-cs.github.io/mobile-wearable-systems-group/</a></p>
+    <p><b>Join us:</b> We welcome students interested in mobile systems, wearable sensing, embedded AI, mobile health, HCI, privacy, and security. Please see: <a href="https://yangliu-cs.github.io/mobile-wearable-systems-group/join/">https://yangliu-cs.github.io/mobile-wearable-systems-group/join/</a></p>
+  </div>
+</section>
 
 <!-- Getting started
 ======

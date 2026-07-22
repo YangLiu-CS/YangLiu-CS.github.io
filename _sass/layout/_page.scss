@@ -152,6 +152,29 @@
     }
   }
 
+  .homepage-panel--group {
+    margin-top: 1.8em;
+  }
+
+  .homepage-panel--group .homepage-panel__body {
+    max-height: none;
+    overflow: visible;
+    background: linear-gradient(135deg, rgba(#52adc8, 0.085), rgba(#fff, 0));
+
+    p {
+      margin: 0 0 0.65rem;
+      line-height: 1.5;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    a {
+      font-weight: bold;
+    }
+  }
+
   .homepage-panel--talks .homepage-panel__body {
     max-height: 14rem;
   }
