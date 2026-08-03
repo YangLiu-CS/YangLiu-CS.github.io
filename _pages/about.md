@@ -108,7 +108,7 @@ Selected Awards
       <section class="service-switcher__panel is-active" id="service-panel-organizing" role="tabpanel" data-service-panel="organizing">
         <h3>Organizing Committee</h3>
         <ul>
-          <li>2026: Registration Chairs, ACM MobiSys; IMWUT Distinguished Paper Awards Committee; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Committee, CS FSU</li>
+          <li>2026: Registration Chairs, ACM MobiSys; Distinguished Paper Awards Committee, ACM IMWUT; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Committee, CS FSU</li>
           <li>2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge</li>
           <li>2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge</li>
           <li>2022: Publicity Chairs, ACM MobiCom</li>
