@@ -45,7 +45,6 @@ I was named a 2024 <b>N2Women: Rising Star in Computer Networking and Communicat
       <li>2025–2026 FYAP Grant Awarded. Thankful for the support from FSU!</li>
       <li>I'm honored to be selected for the ACM TOSN Distinguished Reviewer Board for the 2026–2027 term.</li>
       <li>I started a new position in the Department of Computer Science at Florida State University on 03 Oct 2025 as a tenure-track Assistant Professor.</li>
-      <li>Our Special Issue "State of the Art in Wearable Sensors for Health Monitoring" is now open for submissions (Indexed in PubMed; Impact Factor: 3.5; CiteScore: 8.2; Submission due: 29 July 2026) — learn more at https://www.mdpi.com/si/237279.</li>
     </ul>
     <!-- - Our recent work, “EarCalo: Earable-Based Energy Expenditure Estimation While Running,” has been accepted for publication in HotMobile 2026! See you in Atlanta in February. -->
     <!-- - Our recent work, “HearForce: Force Estimation for Manual Toothbrushing with Earables,” has been accepted for publication in IMWUT 2025! -->
@@ -108,6 +107,7 @@ Selected Awards
       <section class="service-switcher__panel is-active" id="service-panel-organizing" role="tabpanel" data-service-panel="organizing">
         <h3>Organizing Committee</h3>
         <ul>
+          <li>2027: Registration Chairs, ACM MobiSys</li>
           <li>2026: N2Women Chairs, ACM MobiCom; Registration Chairs, ACM MobiSys; Distinguished Paper Awards Committee, ACM IMWUT; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, HeadSys; CS Student Seminar Committee, FSU; Graduate Committee, CS FSU</li>
           <li>2025: N2Women Chairs, ACM SIGCOMM; Web Directors, ACM SIGMOBILE; Fellowship Chairs, N2Women; TPC Chairs, ACM BodySys; Publicity Chairs, ACM IASA; Computer Science Ethics Committee, University of Cambridge</li>
           <li>2024: Publicity & Social Media Chairs, ACM UbiComp/ISWC; Chairs, IEEE SWC; Computer Science Ethics Committee, University of Cambridge</li>
