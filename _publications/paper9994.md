@@ -7,7 +7,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2009-10-01
 venue: # 'Journal 1'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: # 'https://ieeexplore.ieee.org/document/10638728'
+paperurl: 'https://mobile-systems.cl.cam.ac.uk/papers/imwut-jake26.pdf'
 bibtexurl: # 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jake Stuchbury-Wass, Mathias Ciliberto, Qiang Yang, Kayla-Jade Butkow, <b>Yang Liu</b>, Tobias Röddiger, Dong Ma, Ezio Preatoni, Cecilia Mascolo. &quot;ImpactEar: Cross Activity Ground Reaction Force Estimation using Earable IMUs.&quot; <b>ACM IMWUT 2026</b>.'
 ---

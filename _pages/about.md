@@ -119,7 +119,7 @@ Selected Awards
       <section class="service-switcher__panel" id="service-panel-tpc" role="tabpanel" data-service-panel="tpc" hidden>
         <h3>Technical Program Committee Member (Conference)</h3>
         <ul>
-          <li>2027: ACM MobiCom; ACM SenSys; IEEE INFOCOM; IEEE PerCom; HPCAsia</li>
+          <li>2027: ACM MobiCom; ACM MobiSys; ACM SenSys; IEEE INFOCOM; IEEE PerCom; HPCAsia</li>
           <li>2026: ACM SenSys; AAMAS; IEEE/ACM CHASE; ACM MobiSys (Rising Stars Forum); ACM ISWC</li>
           <li>2025: ACM SenSys; ACM MobiSys; ACM MobiCom (Posters); ACM BuildSys (PhD Forum); ACM ISWC; IEEE ICPADS; Euromicro DSD</li>
           <li>2024: ACM MobiSys (Artifact Evaluation); ACM MobiCom (Artifact Evaluation); ACM IPSN (Posters); ACM ISWC; IEEE ICDCS; IEEE ICPADS; IEEE TrustCom; IEEE UIC</li>
