@@ -77,6 +77,7 @@ Selected Awards
   <h2>Invited Talks</h2>
   <div class="homepage-panel__body">
     <ul>
+      <li><b>[Talk]</b> Human-centered mobile and wearable computing for Healthcare, FSU CS Discovery Day.</li>
       <li><b>[Talk]</b> Intelligent Wearable Sensing for Continuous Health Monitoring: From Everyday Wearables to Robust Health Monitoring in Daily Life, FSU CS Board of Advisors (BOA) Meeting, April 2026, FL, US.</li>
       <li><b>[Lecture]</b> Embedded Wearable AI for Continuous Health Monitoring: From Commodity Wearables to Robust Physiological Sensing in Daily Life, EE, Columbia University, February 2026, Virtual Event.</li>
       <li><b>[Lecture]</b> WearIoT: Toward Smarter and Healthier Lives Through Intelligent Wearable Sensing, School of Computing, University of Georgia, November 2025, Virtual Event.</li>
